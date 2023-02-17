@@ -1,0 +1,16 @@
+C:\Users\Berat\source\repos\DSAAFinalProject\DSAAFinalProject\bin\Debug\net5.0\DSAAFinalProject.exe
+C:\Users\Berat\source\repos\DSAAFinalProject\DSAAFinalProject\bin\Debug\net5.0\DSAAFinalProject.deps.json
+C:\Users\Berat\source\repos\DSAAFinalProject\DSAAFinalProject\bin\Debug\net5.0\DSAAFinalProject.runtimeconfig.json
+C:\Users\Berat\source\repos\DSAAFinalProject\DSAAFinalProject\bin\Debug\net5.0\DSAAFinalProject.runtimeconfig.dev.json
+C:\Users\Berat\source\repos\DSAAFinalProject\DSAAFinalProject\bin\Debug\net5.0\DSAAFinalProject.dll
+C:\Users\Berat\source\repos\DSAAFinalProject\DSAAFinalProject\bin\Debug\net5.0\ref\DSAAFinalProject.dll
+C:\Users\Berat\source\repos\DSAAFinalProject\DSAAFinalProject\bin\Debug\net5.0\DSAAFinalProject.pdb
+C:\Users\Berat\source\repos\DSAAFinalProject\DSAAFinalProject\obj\Debug\net5.0\DSAAFinalProject.csproj.AssemblyReference.cache
+C:\Users\Berat\source\repos\DSAAFinalProject\DSAAFinalProject\obj\Debug\net5.0\DSAAFinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berat\source\repos\DSAAFinalProject\DSAAFinalProject\obj\Debug\net5.0\DSAAFinalProject.AssemblyInfoInputs.cache
+C:\Users\Berat\source\repos\DSAAFinalProject\DSAAFinalProject\obj\Debug\net5.0\DSAAFinalProject.AssemblyInfo.cs
+C:\Users\Berat\source\repos\DSAAFinalProject\DSAAFinalProject\obj\Debug\net5.0\DSAAFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Berat\source\repos\DSAAFinalProject\DSAAFinalProject\obj\Debug\net5.0\DSAAFinalProject.dll
+C:\Users\Berat\source\repos\DSAAFinalProject\DSAAFinalProject\obj\Debug\net5.0\ref\DSAAFinalProject.dll
+C:\Users\Berat\source\repos\DSAAFinalProject\DSAAFinalProject\obj\Debug\net5.0\DSAAFinalProject.pdb
+C:\Users\Berat\source\repos\DSAAFinalProject\DSAAFinalProject\obj\Debug\net5.0\DSAAFinalProject.genruntimeconfig.cache
